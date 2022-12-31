@@ -1,1 +1,1 @@
-token = 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
+token = test token
