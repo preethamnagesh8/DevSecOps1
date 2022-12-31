@@ -1,1 +1,1 @@
-token = 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
+token = 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
