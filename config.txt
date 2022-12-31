@@ -1,1 +1,1 @@
-token = test token
+token = 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
